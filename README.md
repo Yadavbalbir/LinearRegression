@@ -1,1 +1,3 @@
-# LinearRegression
+## LinearRegression using Normal equation
+
+
